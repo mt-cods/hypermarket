@@ -3,7 +3,7 @@ import { useParams, useNavigate } from 'react-router-dom';
 import axiosInstance from '../components/axiosInstance.js';
 import { categories, categories_url_slug, API_URL } from "./config.js";
 
-import ProductGrid from '../components/productGrid';
+import ProductGrid from '../components/ProductGrid.jsx';
 
 const CategoryPage = () => {
   const { categorySlug } = useParams();
