@@ -1,0 +1,157 @@
+1. Groceries & Food
+    1. Fruits & Vegetables
+        1. Brinjal Big
+        2. Chili Hybrid
+        3. Mushroom Button
+        4. Lime
+        5. Brinjal Long Green
+        6. Green Mountain Banana
+        7. Small Onion
+        8. Brinjal Purple Striped
+        9. Brinjal Purple
+        10. Gooseberry
+        11. Cucumber
+        12. Big chilli
+    2. Meat, Fish & Eggs
+        1. Seaking Sole
+        2. UPF Healthy Eggs Daily 6 pc
+        3. UPF Healthy Eggs Daily 12pc
+        4. Cut Chicken(Skin Less) Approx 900g-1kg
+        5. Prakrithi Quail Egg 12's
+        6. Chicken Idiyirachi 100g
+        7. Merlin Fish Approx 450g-500g
+        8. Mackerel Fish Approx.950g-1Kg
+        9. White Squid Whole Fish Approx.450g-500g
+        10. Prawns Approx.450g-500g
+        11. Chicken Bone In Breast approx. 400g-500g
+        12. Chicken Whole Leg Approx.500g
+    3. Masalas & Spices
+        1. Grandmas Kashmiri Chilli Powder 100g
+        2. Grandmas Coriander Powder 100g
+        3. Eco Fresh Cumin Seed 100g
+        4. Eco Fresh Coriander Seed 100gm
+        5. Grandmas Sambar Powder 100g
+        6. Turmeric Whole 250g
+        7. Grandmas Chicken Masala 100g
+        8. Grandmas Meat Masala 100g
+        9. Nourish You Black Chia Seed 500g
+        10. Natural Spices Cardamom 50Gm
+        11. Natural Spices JeeraPremium 100g
+        12. Natural Spices Khuskhus 50Gm
+    4. Snacks & Beverages
+        1. Glucon-D Energy Drink Orange 75G
+        2. Real Masala Guava Juice 1L
+        3. Cheetos Masala Ball Chips 28g
+        4. Kurkure Red Chilli Chatka 72g
+        5. Milma Drinking Water 1Litre
+        6. Pepsi Soft Drink, 250 ml Bottle
+        7. 7Up Soft Drink 250Ml Pet Bottle
+        8. Lays American Style Cream & Onion 40g
+        9. Lays Potato Classic Salted 48g
+        10. Bingo Mad Angles Cheese Nachos 23G
+        11. Bingo Nachos Mad Angles Cheese 42G
+        12. Mountain Soft Drink Dew Pet Bottle 750ml
+            
+🛒 Main Categories and Subcategories for a Hypermarket Website
+
+1. Groceries & Food
+
+* Fresh Fruits & Vegetables
+* Dairy & Eggs
+* Bakery
+* Meat & Seafood
+* Packaged Food (Chips, Snacks, etc.)
+* Rice, Pulses & Grains
+* Spices & Condiments
+* Cooking Oils & Ghee
+* Breakfast & Cereals
+* Ready-to-Eat & Instant Food
+
+ 2. Beverages
+
+* Soft Drinks
+* Juices
+* Tea & Coffee
+* Energy & Sports Drinks
+* Water & Sparkling Water
+
+ 3. Personal Care
+
+* Skin Care
+* Hair Care
+* Oral Care
+* Bath & Body
+* Shaving & Grooming
+* Feminine Hygiene
+
+ 4. Household Essentials
+
+* Cleaning Supplies
+* Laundry Detergents
+* Dishwashing
+* Air Fresheners
+* Trash Bags
+* Tissues & Paper Towels
+
+ 5. Health & Wellness
+
+* Vitamins & Supplements
+* First Aid
+* Medical Devices
+* Fitness Products
+
+ 6. Baby & Kids
+
+* Baby Food & Formula
+* Diapers & Wipes
+* Baby Care
+* Toys
+* Kids' Personal Care
+
+ 7. Stationery & Office Supplies
+
+* Pens, Pencils & Writing Instruments
+* Notebooks & Paper
+* Files & Folders
+* Art Supplies
+* Calculators
+* Office Equipment
+
+ 8. Home & Kitchen
+
+* Cookware & Bakeware
+* Kitchen Storage
+* Utensils & Tools
+* Appliances (Blenders, Toasters)
+* Bed & Bath
+* Furniture & Decor
+
+ 9. Electronics
+
+* Mobile Phones & Accessories
+* Computers & Tablets
+* TVs & Entertainment
+* Home Appliances (Refrigerators, Washing Machines)
+
+ 10. Clothing & Accessories
+
+* Men’s Clothing
+* Women’s Clothing
+* Kids’ Clothing
+* Footwear
+* Bags & Wallets
+* Accessories
+
+ 11. Beauty & Cosmetics
+
+* Makeup
+* Fragrances
+* Skincare
+* Hair Styling Tools
+
+ 12. Pet Supplies
+
+* Pet Food
+* Pet Toys
+* Pet Grooming
+* Accessories
