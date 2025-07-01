@@ -8,4 +8,4 @@ export const categories = [
     "Snacks & Beverages"
 ];
 
-export const API_URL = "http://localhost:3000";
+export const API_URL = "https://hypermarket-ko9l.onrender.com";

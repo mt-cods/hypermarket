@@ -636,5 +636,5 @@ export const categories_url_slug = {
     "Breakfast & Instant Foods": "breakfast-and-instant-foods"
 }
 
-export const API_URL = "http://localhost:3000";
+export const API_URL = "https://hypermarket-ko9l.onrender.com";
 export const STRIPE_PK = 'pk_test_51RfzFq083DKTvRy9WsZOLXi3r3veXzKYcy97IZZu1yq3ClVQoo1nLSVivRfoqEIM7uCh46T3LJ9TuX7q1PkU0SeD003D0VdtSY';
